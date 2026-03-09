@@ -1,0 +1,8 @@
+numpy
+torch
+opencv-python
+pillow
+tqdm
+scipy
+segmentation_models_pytorch
+basicsr
